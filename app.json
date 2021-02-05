@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Feel free to beta test the app.",
+    "githubUrl": "https://github.com/bilal1031/MessageApp/tree/main"
   }
 }

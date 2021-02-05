@@ -25,7 +25,7 @@ const TextButton = ({ text, onPress }) => {
       ]}
       onPress={() => {
         onPress();
-        //setcolor(coloris == color.lightgreen ? color.green : color.lightgreen);
+        setcolor(color.green);
       }}
     >
       <Text style={styles.text}>{text}</Text>
